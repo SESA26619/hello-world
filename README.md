@@ -1,3 +1,3 @@
 # hello-world
 Just another repository
-Kontor på Ryen
+Kontor på Ryen i Oslo
